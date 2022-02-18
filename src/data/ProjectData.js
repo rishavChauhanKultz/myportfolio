@@ -59,10 +59,10 @@ export const stackList = [
   },
   {
     img: "https://img.icons8.com/color/50/000000/mongodb.png",
-    name: "mongoDb",
+    name: "MongoDb",
   },
   {
-    img: "https://img.icons8.com/color/50/000000/mongodb.png",
-    name: "mongoDb",
+    img: "https://img.icons8.com/color/48/000000/express.png",
+    name: "Express",
   },
 ];
