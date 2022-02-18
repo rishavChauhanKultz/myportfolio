@@ -57,4 +57,12 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
     name: "Responsive",
   },
+  {
+    img: "https://img.icons8.com/color/50/000000/mongodb.png",
+    name: "mongoDb",
+  },
+  {
+    img: "https://img.icons8.com/color/50/000000/mongodb.png",
+    name: "mongoDb",
+  },
 ];
